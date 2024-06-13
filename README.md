@@ -84,3 +84,13 @@ npm run dev
 ### Testing:
 
 to test all api by running frontend or simply use Postman
+
+### Snapshots:
+
+![Login/SignUp page](images/Auth.png)
+
+![Create Note Page](images/CreateNote.png)
+
+![Share Note Page](images/ShareNote.png)
+
+![Check Share Note](images/Share.png)
